@@ -6,4 +6,4 @@ INSERT INTO movie(movie_name,actor,actoress ,director ,year_of_release) VALUES('
 INSERT INTO movie(movie_name,actor,actoress ,director ,year_of_release) VALUES('hostel','ashok selvan','priyabhavani sanker','sumanth radhakrishnan',2022,);
 //for query
 SELECT * FROM movies;
-SELECT movie FROM movies WHERE actor='ajith';
+SELECT movie FROM movies WHERE actor='ashok selvan';
